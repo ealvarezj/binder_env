@@ -1,6 +1,7 @@
 
 nbgitpuller
 
+
 # Libraries
 pandas == 1.2.4
 numpy == 1.20.1
