@@ -3,12 +3,12 @@ nbgitpuller
 
 
 # Libraries
-pandas == 1.2.4
-numpy == 1.20.1
-matplotlib == 3.3.4
-seaborn == 0.11.1
-plotly == 5.1.0
-ipywidgets == 7.6.3
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+ipywidgets
 geopandas
 sodapy
 scipy
